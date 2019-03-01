@@ -1,2 +1,2 @@
 - [wiki](https://github.com/daiki-akiba/memo/wiki)にメモを記載
-- test coderで編集
+- test [coder](https://coder.com/)で編集
